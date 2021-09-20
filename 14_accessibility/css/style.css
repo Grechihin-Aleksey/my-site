@@ -1413,8 +1413,15 @@ input::placeholder {
 }
 /* @media (max-width: 768px) */
 @media (max-width: 540px) {
+  .swiper {
+    min-height: 504px;
+  }
+  .swiper-box {
+    margin-bottom: 40px;
+  }
+
   .main__slaider {
-    min-height: 308px;
+    min-height: 520px;
   }
 
   .slaider__content {
