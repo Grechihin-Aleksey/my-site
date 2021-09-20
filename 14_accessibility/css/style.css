@@ -1490,7 +1490,7 @@ input::placeholder {
   }
 
   .content-discription {
-    margin-bottom: 8px;
+    margin-bottom: 15px;
     font-size: 14px;
     line-height: 28px;
   }
@@ -1589,9 +1589,13 @@ input::placeholder {
     line-height: 29px;
   }
 
-  .questions__item {
+  .questions__wrapper {
     padding: 30px 0;
   }
+
+  /* .questions__item {
+    padding: 30px 0;
+  } */
 
   .questions__headings {
     max-width: 243px;
