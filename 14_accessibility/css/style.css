@@ -1627,8 +1627,13 @@ input::placeholder {
   }
 
   .check-block {
+    display: block;
     max-width: 295px;
-    margin: auto;
+    margin: 0px auto;
+  }
+
+  .form-check {
+    margin-right: 10px;
   }
 
   .footer__meny {
