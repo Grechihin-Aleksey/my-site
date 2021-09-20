@@ -1631,10 +1631,6 @@ input::placeholder {
     margin: auto;
   }
 
-  .form-check {
-    margin-left: 15px;
-  }
-
   .footer__meny {
     display: flex;
     flex-direction: column;
